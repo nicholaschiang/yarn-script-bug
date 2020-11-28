@@ -1,0 +1,11 @@
+{
+  "name": "yarn-script-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicholas Chiang",
+  "license": "MIT",
+  "devDependencies": {
+    "@percy/cypress": "^2.3.2",
+    "cypress": "^6.0.0"
+  }
+}
